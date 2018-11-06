@@ -132,3 +132,11 @@ a {
     margin-left: 15%;
     margin-top: 5%;
 }
+
+#quoteDisplay {
+ font-size: 36px;
+    line-height: 38px;
+    letter-spacing: 2px;
+    color: black;
+    padding: 2% 2%;
+}
