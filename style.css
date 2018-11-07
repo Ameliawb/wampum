@@ -1,9 +1,9 @@
 body {
     background: #FEAC5E;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    background: -webkit-linear-gradient(to right,   #4B0082,#FFE4B5, #C779D0);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    background: linear-gradient(to right,   #4B0082,#FFE4B5, #C779D0);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -110,7 +110,7 @@ p {
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    margin-left: 20%;
+    margin-left: 2%;
     line-height: 28px;
     letter-spacing: normal;
     color: white;
@@ -120,9 +120,19 @@ a {
     color: purple;
 }
 
+/* mouse over link */
+a:hover {
+    color: #4B0082;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+
 .button {
     font-family: 'Josefin Sans', sans-serif;
-    background-color: pink;
+    background-color: #C779D0;
     border: none;
     padding: 3% 3%;
     text-align: center;
