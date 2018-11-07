@@ -129,14 +129,18 @@ a {
     text-decoration: none;
     display: inline-block;
     font-size: 38px;
-    margin-left: 15%;
+    margin-left: 25%;
     margin-top: 5%;
 }
 
 #quoteDisplay {
- font-size: 36px;
+    font-size: 36px;
     line-height: 38px;
     letter-spacing: 2px;
     color: black;
     padding: 2% 2%;
+}
+
+#footer {
+    padding-top: 50%;
 }
