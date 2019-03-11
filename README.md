@@ -1,3 +1,3 @@
 # wampum
 wampum ritual
-Prototype for the Library of Congress [Play Test Event] (https://www.playtest.org/)
+Prototype for the Library of Congress (https://www.playtest.org/ "Play Test") event in 2018
