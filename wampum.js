@@ -14,24 +14,16 @@ var quotes = [
     'you and your partner are making an agreement today in front of your community in a sacred spot',
     'tell your partner the time of day and the season',
     'say to your partner: I am happy you are with me today, I am thankful for you and your community',
-    'stop. Now our minds are one',
-    'say goodbye, your ritual is complete',
-    'end your time together',
-    'say thank you and goodbye',
     'introduce yourself to your partner and ask them their name',
     'you have completed your agreement please find another partner',
     'take a breath and look around you',
     'tell your partner 5 things that you are thankful for',
     'ask your partner to list 3 people they are grateful to have in their life',
     'ask your partner to make a commitment to something you agree upon',
-    'thank you for participating you are finished',
-    'thank you for participating in the wampum ritual (end)',
-    'find a new partner and begin again',
     'think about a time when you had to convince someone to support an idea of yours, now smile at your partner and ask them how they are doing',
     'look around you, notice the other people in the room, nod to them if appropriate',
     'wampum is a public agreement, a contract, a ledger, story, a form of trade, it is woven but determined by the people participating in the process',
     'trade something with your partner, either for good or for a moment',
-    'thank you, your task is complete'
 ]
 
 function newQuote() {
